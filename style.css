@@ -39,7 +39,7 @@ nav ul li a {
 nav ul li a:hover {
     font-size: large;
     font-style: italic;
-    text-decoration: underline wavy;
+    text-decoration: underline solid #f4f4f4;
 }
 
 #hero {
@@ -113,5 +113,6 @@ footer {
     position: absolute;
     bottom: 0;
     width: 100%;
+    
 }
 
